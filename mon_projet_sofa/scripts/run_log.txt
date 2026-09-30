@@ -1,0 +1,98 @@
+[INFO]    [runSofa] PluginRepository paths = /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins
+[INFO]    [runSofa] DataRepository paths = /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa/examples:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa/examples:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa/icons
+[INFO]    [runSofa] runSofaDataRepository paths = /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa/gui/runSofa:/home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/share/sofa/gui/runSofa
+[INFO]    [GUIManager] Registered batch as a GUI.
+[INFO]    [runSofa] Loading automatically plugin list in /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/plugin_list.conf
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.ODESolver.Forward.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.ODESolver.Backward.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.ODESolver.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.IO.Mesh.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.IO.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Playback.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SceneUtility.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Container.Constant.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Container.Dynamic.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Container.Grid.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Container.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Mapping.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.Utility.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Topology.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Visual.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSystem.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSolver.Iterative.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSolver.Ordering.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSolver.Direct.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSolver.Preconditioner.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.LinearSolver.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Mass.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Diffusion.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Mapping.Linear.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Mapping.NonLinear.so
+[DEPRECATED] [Sofa.Component.Mapping.MappedMatrix] This plugin is deprecated and will be removed in the future.
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Mapping.MappedMatrix.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Mapping.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.StateContainer.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.Spring.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.FEM.Elastic.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.FEM.HyperElastic.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.FEM.NonUniform.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.FEM.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.TensorMass.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.SolidMechanics.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.Lagrangian.Model.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.Lagrangian.Correction.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.Lagrangian.Solver.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.Lagrangian.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.Projective.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Constraint.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.AnimationLoop.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.MechanicalLoad.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Geometry.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Detection.Algorithm.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Detection.Intersection.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Detection.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Response.Mapper.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Response.Contact.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.Response.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Collision.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Setting.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Controller.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Engine.Analyze.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Engine.Generate.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Engine.Select.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Engine.Transform.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Engine.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.Haptics.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.Component.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GL.Component.Rendering2D.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GL.Component.Rendering3D.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GL.Component.Engine.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GL.Component.Shader.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GL.Component.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GUI.Component.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/libSofa.GUI.Batch.so
+[INFO]    [GUIManager] Registered glfw as a GUI.
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins/SofaGLFW/lib/libSofaGLFW.so
+[INFO]    [GUIManager] Registered imgui as a GUI.
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins/SofaImGui/lib/libSofaImGui.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins/MultiThreading/lib/libMultiThreading.so
+[INFO]    [PluginManager] Loaded plugin: /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/plugins/Sofa.Metis/lib/libSofa.Metis.so
+[INFO]    [PluginManager] 71 plugins have been loaded from /home/illyan/Documents/SOFA_v26.06.00_Linux_Python3.12/SOFA_v26.06.00_Linux/lib/plugin_list.conf
+[ERROR]   [Simulation] Cannot load file '/home/illyan/Documents/Arm_bot/mon_projet_sofa/scripts/so101_scene.py': extension (py) is only supported if the plugin SofaPython3 is loaded. SofaPython3 must be loaded first before being able to load the file.
+[WARNING] [Node()] An animation loop is required, but has not been found. Add an animation loop in the root of your scene to fix this warning. The list of available animation loop components is: [AnimationLoopParallelScheduler, ConstraintAnimationLoop, DefaultAnimationLoop, FreeMotionAnimationLoop, MultiStepAnimationLoop, MultiTagAnimationLoop]. A component of type DefaultAnimationLoop will be automatically added for you.
+[INFO]    [BaseViewer] There is no camera in this scene, I created one. To remove this error message, add a camera in your scene.
+[INFO]    [ImGuiGUIEngine] Fetching settings from /home/illyan/.config/SOFA/config/imgui/settings.ini
+[INFO]    [PluginManager] 0 plugins have been loaded from /home/illyan/.config/SOFA/config/loadedPlugins.ini
+
+########## SIG 2 - SIGINT: interactive attention signal, probably a ctrl+c ##########
+  sofa::helper::BackTrace::sig(int)
+  poll
+  xcb_wait_for_reply64
+  _XReply
+  XGetInputFocus
+  ImGui_ImplGlfw_NewFrame()
+  sofaimgui::ImGuiGUIEngine::startFrame(sofaglfw::SofaGLFWBaseGUI*)
+  sofaglfw::SofaGLFWBaseGUI::runLoop(unsigned long)
+  sofaglfw::SofaGLFWGUI::mainLoop()
+  sofa::gui::common::GUIManager::MainLoop(boost::intrusive_ptr<sofa::simulation::Node>, char const*)
+  __libc_start_main
